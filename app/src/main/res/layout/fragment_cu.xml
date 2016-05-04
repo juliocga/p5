@@ -1,0 +1,38 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+tools:context="com.juliocgutierrez.p5.CuFragment">
+<FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        style="@style/linerlayoutstyle"
+        android:background="@drawable/fondo">
+        <TextView
+            style="@style/textviewstyle.Title"
+            android:text="@string/cucaracho"/>
+        <ImageView
+            style="@style/imageviewstyle"
+            android:src="@drawable/cucaracho"
+            android:focusable="false" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@color/silver"
+            android:layout_marginLeft="100dp"
+            android:layout_marginRight="100dp"
+            android:onClick="onMapacu"
+            android:text="@string/mapa"/>
+        <TextView
+            style="@style/textviewstyle.Content"
+            android:text="@string/cucarachoinfo"/>
+    </LinearLayout>
+
+</FrameLayout>
+</ScrollView>

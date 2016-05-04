@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Barrancabermeja</string>
+    <string name="next">Next</string>
+    <string name="barranca">BARRANCABERMEJA</string>
+    <string name="mapa">Map</string>
+    <string name="sangabriel">SAN GABRIEL</string>
+    <string name="cucaracho">CUCARACHO</string>
+    <string name="sexy">SEXY MICHELADAS</string>
+    <string name="museo">PETROLEUM MUSEUM</string>
+    <string name="marcela">NAVIGATE THE MARCELA</string>
+    <string name="cienaga">CLUB NAUTICO SAN SILVESTRE</string>
+    <string name="millenium">MILLENIUM HOTEL</string>
+    <string name="pipaton">PIPATON HOTEL</string>
+    <string name="ciudad">LA CIUDAD HOTEL</string>
+    <string name="publicidad">ATTRACTIONS</string>
+    <string name="hoteles">HOTELS</string>
+    <string name="bares">BARS</string>
+    <string name="sitios">SITES</string>
+    <string name="demografia">DEMOGRAPHIC INF.</string>
+    <string name="acercade">About of</string>
+    <string name="diseñado">Application developed by: Julio Gutierrez \n Student Level 10 Electronic Engineering at the University of Antioquia</string>
+    <string name="barrancainfo">\nThanks to its proximity to the Magdalena, gastronomy is represented in the variety of fish that produces the affluent, including bocachico,
+         served fried or widow. Besides the traditional sancocho trifásico.El santandereano town offers tourists variety of places to visit,
+         among which features the majestic Cienaga San Silvestre, the most important natural reserve of Barrancabermeja, located 10 minutes from the city.
+         It is a mirror of water with spectacular, ideal for those who enjoy extreme sports, natural landscapes as its waters are perfect for practicing water skiing.</string>
+    <string name="ciudadinfo">\nHotel La Ciudad, which in addition to all the features necessary amenities with a particular style to identify their
+         rooms, each refers to representative locations in the region; in order to convey to visitors the traditions of the region in a didactic way.</string>
+    <string name="pipatoninfo">"\n The Pipaton Hotel, Located in the heart of the city, is an architectural gem of Barrancabermeja, where glamor meets the
+         history and offers visitors a estadía.La placida hotel's location is conducive for tourism and business in the city, located near the river,
+         banks, restaurants and commercial establishments."</string>
+    <string name="milleniuminfo">\nDesigned and built under the best hotel standards, strategically located in a residential and commercial area adjacent to the refinery Ecopetrol -
+        Main entrance of the complex and the Club Miramar, makes it the most secure and quiet ideal for corporate business travelers traveling according to the main economic activity
+        in the petroleum capital of Colombia; just minutes from the San Silvestre mall for the fastest route connecting the city center to the refinery and the hotel, so we are considered by
+        our customers better hotel in town.</string>
+    <string name="cienagainfo">This club is located on the road between Barrancabermeja with El Llanito, five kilometers,
+         in near the Ciénaga Miramar. In this club, managers of ECOPETROL can do sports like soccer, basketball, swimming, skiing, fishing,
+         among others. It also has services like restaurant, bar, billiards, tavern and conference room.</string>
+    <string name="marcelainfo">\nThis vessel is proud to be one hundred percent barrameja. It is located on the waterfront, in the Magdalena River.
+         Visitors can travel across the river and enjoy the sunsets in the region.</string>
+    <string name="museoinfo">\nLocated fifteen minutes from Barrancabermeja, on the road leading to the district
+         El Centro, is this museum, created in order to publicize the history of the oil industry in Colombia and
+         the different processes of extraction, processing, diversification and distribution of hydrocarbons, in a fun and educational.</string>
+    <string name="sexyinfo">\n"Sexy Micheladas" is the perfect choice for people who want to talk, dance and listen to good music,
+         because the concept is completely different, in this place, you have very "sexy" waitresses serving each
+         visitors. \n\n
+         "Micheladas" is open every day but Wednesday, Thursday, Friday and Saturday, mixtures has its resident DJ,
+         Dj Toro, plus a perfect ingredient, and is the sexy Shot, a client request and the waitress with very sexy dances,
+         It is responsible for giving a drink with one shot, which is prepared right there.</string>
+    <string name="cucarachoinfo">"\nBeing the most senior club in the city, Cucaracho Disco Bar, It has been modernized and every day offers the best services to enjoy the rumba on weekends, all starts on Thursday, with its night splurge.\n
+        Friday's something incredible but true, happy hour, 30 percent discount on all spirits, in addition, the first five groups arriving to enjoy the Friday media are completely free, Aguardiente and Ron. Cucaracho disc mixes Bar are by William Masters."</string>
+    <string name="gabrielinfo">\nThe popularity currently have is very important for all Barranqueños.
+         Thursdays are days of battles Shots for attendees plus a free bar on Fridays and
+         Saturday rumba not for review and you will really want to leave home and
+         have a very good weekend.</string>
+    <string name="informacion">"\n The city of Barrancabermeja has an area of 1,154 square kilometers,
+         It is located on a plain on the right bank of the Magdalena River
+         a height above sea level of 75.94 meters, the average temperature is
+         33.5º C, far from the city of Bogotá 403 Km.\n In the urban area are residential, commercial, industrial zones,
+         sports, institutional, administrative, tuguriales. It has an airport
+         "Yariguies" and River Transport Terminal. The city is divided in July
+         communes, 6 districts and the area of refinery country's most important."</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Barrancabermeja</string>
+
+    <string name="museo">MUSEO DEL PETROLEO</string>
+    <string name="marcela">PASEO EN LA MARCELA</string>
+    <string name="cienaga">CLUB NAUTICO SAN SILVESTRE</string>
+    <string name="millenium">HOTEL MILLENIUM</string>
+    <string name="pipaton">HOTEL PIPATON</string>
+    <string name="ciudad">HOTEL LA CIUDAD</string>
+    <string name="publicidad">ATRACTIVOS</string>
+    <string name="hoteles">HOTELES</string>
+    <string name="sangabriel">SAN GABRIEL</string>
+    <string name="cucaracho">CUCARACHO</string>
+    <string name="sexy">SEXY MICHELADAS</string>
+    <string name="bares">BARES</string>
+    <string name="mapa">Mapa</string>
+    <string name="sitios">SITIOS</string>
+    <string name="demografia">INF. DEMOGRAFICA</string>
+    <string name="abierto">La aplicacion esta abierta</string>
+    <string name="cerrado">La aplicacion esta cerrada</string>
+     <string name="informacion">\nEl municipio de Barrancabermeja posee una extensión de 1.154 kilómetros cuadrados,
+        se encuentra situada en una planicie sobre la margen derecha del Río Magdalena a
+        una altura sobre el nivel del mar de 75.94 Metros, su temperatura promedio es de
+        33.5º C, dista de la ciudad de Bogotá 403 Km.\nEn la zona urbana se encuentran zonas residenciales, comerciales, industriales,
+        deportivas, institucionales, administrativas, tuguriales. Cuenta con un aeropuerto
+        "Yariguies" y un Terminal de fluvial de Transportes. La ciudad se encuentra dividida 7
+        comunas, 6 corregimientos y la zona de refinería de petróleo más importante del país.</string>
+    <string name="barrancainfo">\nGracias a su cercanía con el Magdalena, su gastronomía se representa en la variedad de pescados que produce el afluente, entre ellos  el bocachico,
+        que se sirve frito o en viuda. Además del tradicional sancocho trifásico.El municipio santandereano ofrece a los turistas variedad de lugares para visitar,
+        entre los que se cuenta la majestuosa Ciénaga San Silvestre, la reserva natural más importante de Barrancabermeja, ubicada a 10 minutos de la ciudad.
+        Se trata de un espejo de agua con espectaculares paisajes naturales, ideal para quienes disfrutan de los deportes extremos, pues sus aguas son perfectas para la práctica del esquí náutico</string>
+    <string name="ciudadinfo">\nHotel la Ciudad, que además de contar con todas las comodidades necesarias cuenta con un estilo particular para la identificación de sus
+        habitaciones, cada una hace referencia a lugares representativos de la región; con la finalidad de transmitir a los visitantes las tradiciones de la región de una manera didáctica.</string>
+    <string name="pipatoninfo">\nEl Hotel Pipatón, Situado en el corazón de la ciudad, es una joya arquitectónica de Barrancabermeja, donde el glamour se junta con la
+        historia y brinda a sus visitantes una placida estadía.La ubicación del hotel es propicia para hacer turismo y negocios en la cuidad, cerca se encuentra el río,
+        bancos, restaurantes y establecimientos comerciales.</string>
+    <string name="milleniuminfo">\nDiseñado y construido bajo los mejores estándares hoteleros, ubicado estratégicamente en un sector residencial y comercial aledaño a la
+        refinería de Ecopetrol – Entrada principal del complejo y el Club Miramar, lo hace el hotel más seguro y tranquilo ideal para los viajeros corporativos de negocios que
+        viajan en función de la principal actividad económica de la capital petrolera de Colombia; a tan solo minutos del centro comercial San Silvestre por la vía más rápida de
+        conexión del centro de la ciudad a la refinería y al hotel, por eso somos considerados por nuestros clientes el hotel mejor ubicado de la ciudad.</string>
+
+    <string name="cienagainfo">Este club se encuentra ubicado en la vía que comunica a Barrancabermeja con el corregimiento El Llanito, a cinco kilómetros,
+        en cercanías a la Ciénaga Miramar. En este club, los directivos de ECOPETROL pueden realizar deportes como fútbol, baloncesto, natación, esquí, pesca deportiva,
+        entre otros. Así mismo cuenta con servicios de restaurante, bar, billar, taberna y sala de conferencias.</string>
+    <string name="marcelainfo">\nEsta embarcación se enorgullece por ser ciento por ciento barrameja. Se encuentra ubicada en el muelle, en el río Magdalena.
+        Los visitantes pueden viajar a través del río y disfrutar los atardeceres de la región.</string>
+    <string name="museoinfo">\nUbicado a quince minutos de Barrancabermeja, en la vía que conduce al corregimiento
+        El Centro, se encuentra este museo, creado con el fin de dar a conocer la historia de la industria petrolera en Colombia y
+        los diferentes procesos de extracción, tratamiento, diversificación y distribución de los hidrocarburos, de forma lúdica y educativa.</string>
+    <string name="sexyinfo">\n“Sexy Micheladas”, es la opción perfecta para las personas que quieran hablar, bailar y escuchar buena música,
+        pues el concepto es completamente diferente, en este lugar, cuentas con meseras muy “sexys” que atienden a cada uno
+        de los visitantes.\n\n
+        “Micheladas”, abre todos los días, pero miércoles, jueves, viernes y Sábado, cuenta con las mezclas de su Dj residente,
+        Dj Toro, además de un ingrediente perfecto, y es el sexy Shot, un cliente lo solicita y la mesera con bailes muy sexys,
+        se encarga de darle una copa con uno de los shot, que ahi mismo se preparan.</string>
+    <string name="cucarachoinfo">\nSiendo la discoteca con más antigüedad en la ciudad, Cucaracho Disco Bar,
+        se ha modernizado y cada día ofrece los mejores servicios para disfrutar la rumba en los fines de semana,
+        todo arranca los días jueves, con su noche de derroche.\n
+        Los viernes pasa algo increíble pero cierto, happy hour, 30 por ciento de descuento en todos los licores,
+        además, los primeros cinco grupos que lleguen a disfrutar del viernes, reciben media completamente gratis,
+        de Aguardiente y Ron. Las mezclas en Cucaracho disco Bar son a cargo de William Master.</string>
+    <string name="gabrielinfo">\nLa popularidad que actualmente tiene es muy importante para todos Barranqueños.
+        Los jueves son días de batallas de Shots para los asistentes ademas de un barra libre, los viernes y
+        los sábados la rumba no para, descuentos y promociones que te darán muchas ganas de salir de casa y
+        pasar un fin de semana muy bueno. </string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_maps">Map</string>
+
+</resources>
